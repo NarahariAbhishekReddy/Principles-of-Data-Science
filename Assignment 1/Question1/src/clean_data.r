@@ -1,0 +1,5 @@
+frailty_data<-read.csv("D:/Downloads/Frailty.csv")
+summary(frailty_data)
+clean_data <- na.omit(frailty_data[frailty_data$Frailty != 'N', ])
+write.csv(clean_data,"D:/Downloads/clean_data.csv")
+summary(clean_data)

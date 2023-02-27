@@ -1,0 +1,12 @@
+
+	Paired t-test
+
+data:  clean_data$Age and clean_data$Grip
+t = 1.0366, df = 3, p-value = 0.3761
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -16.04309  31.54309
+sample estimates:
+mean of the differences 
+                   7.75 
+
