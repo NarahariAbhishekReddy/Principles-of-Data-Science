@@ -1,6 +1,5 @@
 1Q,
-Ans:   The t
-ee stages of reproducible work flow are:</br>
+Ans:   The tee stages of reproducible work flow are:</br>
 <b>1.	Data Collection </br></br>
 2.	Data Processing and </br>
 3.	Data Analysis</br>
